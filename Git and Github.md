@@ -13,6 +13,8 @@ create a clone of a remote repository on your local machine
 git status
 shows modified and staged files
 
+git log
+
 git add
 add files to the stage
 
@@ -22,13 +24,29 @@ unstage files
 git diff
 shows the difference between files
 
+git restore --staged <file>
+
+git commit -m 'Commit message'
+
 ## BRANCHING
 
-git switch
+git push <remote> <branch>
+git branch a
+git branch -D <branch>
+
+**git checkout <branch>**
+
+git checkout -b <branch>
+
+**git switch**
 Creates and automatically moves to the created branch
 
-git pull
+git switch -c <branch>
+
+**git pull**
 Update your local repo with the updated version from the remote repo
 
-git merge
+**git merge**
 Merges a branch into another
+
+**git rebase**
