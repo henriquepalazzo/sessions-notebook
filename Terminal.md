@@ -2,5 +2,12 @@
 
 ## Commands
 
-take
-make and move into a directory
+ls
+ls -la
+ls -a
+ls -1
+
+mkdir
+cd
+
+mov
