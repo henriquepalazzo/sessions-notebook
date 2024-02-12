@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9cdc8b956c20ed0c",
+        "id": "d4dcfb6abcef7570",
         "type": "tabs",
         "children": [
           {
-            "id": "e63e8d270547d528",
+            "id": "b2fa5f5367e71c53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git and Github.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git and Github.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e63e8d270547d528",
+  "active": "b2fa5f5367e71c53",
   "lastOpenFiles": [
+    "JS.md",
+    "README.md",
+    "Terminal.md",
+    "References.md",
+    "Git and Github.md",
     "CSS.md",
     "Html.md",
-    "CSS/css-notes.md",
-    "Git and Github.md",
-    "Terminal.md"
+    "Career.md",
+    "CSS/css-notes.md"
   ]
 }
