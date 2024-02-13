@@ -1,8 +1,14 @@
 
 ## CSS
 
-**Flexbox cheatsheet**
+**Flexbox Complete guide**
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+**Grid Complete guide**
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+**Custom Properties Complete guide**
+https://css-tricks.com/a-complete-guide-to-custom-properties/
 
 **BEM Naming methodology**
 https://getbem.com/
