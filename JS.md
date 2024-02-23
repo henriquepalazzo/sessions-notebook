@@ -111,7 +111,7 @@ A function that takes one or more functions as a parameter
 **Referring x Calling**
 Difference between referring to a function as a callback function (with no parenthesis) and calling it immediately (with parenthesis)
 
-## Array functions
+## Array methods
 
 **Map**
 
@@ -126,6 +126,12 @@ const whatever = whateverArray.map((element) => {
 })
 ```
 
+**Difference between forEach and for**
+The forEach will always complete all the cycles, there is no way of breaking it, even with a return statement inside the code block.
+
+**Includes**
+const arr [1,2,3,4]
+arr.includes(2) // true
 
 ## Recurring functions
 
@@ -149,7 +155,13 @@ function getElementCount(arr){
 
 ## NPM
 
-Version number pattern
+Package registry to control and have access to packages and other useful tools for the application. 
+
+Dependencies x devDependencies
+The second one should contain packages that are used or needed only for the development environment.
+
+Versioning
+The version number usually has a meaning and a reason on the way it's handled, usually the first number means a major change on the package, the ones that could potentially break the application, the second one are related to improvements and other changes that should not affect the functioning of the application, the last one is usually used for controlling bug and patches published to the package.
 
 ## Structure
 
