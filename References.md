@@ -25,9 +25,14 @@ https://cssbattle.dev/
 **Learning game**
 https://www.codewars.com/
 
+**Leetcode**
+https://leetcode.com/
+
 **JS Run App**
 https://runjs.app/
 
+**NPM**
+https://www.npmjs.com/
 ## Icons
 
 **Font Awesome**
