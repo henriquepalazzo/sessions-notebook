@@ -98,3 +98,63 @@ const sum = (a, b) => a + b
 
 With no parameter and only one statement
 const run = () => something
+
+## Strings
+
+
+
+## Callback function
+
+**Higher order functions**
+A function that takes one or more functions as a parameter
+
+**Referring x Calling**
+Difference between referring to a function as a callback function (with no parenthesis) and calling it immediately (with parenthesis)
+
+## Array functions
+
+**Map**
+
+Returning direct a value
+`const whatever = array.map((element) => processedElement)`
+
+Returning a code block
+```
+const whatever = whateverArray.map((element) => {
+	some logic here
+	return finalValue
+})
+```
+
+
+## Recurring functions
+
+Powerful resource that should be used with care, specially regarding the need of having a defined stop command.
+
+```
+const arr = [1, 2, [3, 4], 5, [6, [7, 8]]]
+
+function getElementCount(arr){
+	let count = 0
+	for (let i of arr) {
+		if (Array.isArray(i)) {
+			count += getElementCount(i)
+		} else {
+			count ++
+		}
+	}
+	return count
+}
+```
+
+## NPM
+
+Version number pattern
+
+## Structure
+
+Defer attribute forces the JS file to load only after the HTML is loaded. But it's not needed when we are working with modules attribute, that will automatically force the JS to be executed at the end.
+
+## Special For Loops
+
+Versatility of the for loop structure, being able to receive for instance an array as the first parameter, different types of incremente, even more than one comande as the iterator, separated by coma. One could use also with no parameters at all and using the code block to implement a logic that would break the loop when the condition is reached.
