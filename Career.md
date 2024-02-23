@@ -20,3 +20,20 @@
 	  Time-Bound
 
 - Supportive structure
+
+## Second encounter
+
+- Present yourself
+- Roles in the career
+- Networking
+
+### References
+
+**Gitlab Handbook for Engineering roles**
+https://handbook.gitlab.com/job-families/engineering/
+
+**Mentor Me**
+https://mentorme-ngo.org/mentee_werden/
+
+**ADP List**
+https://adplist.org/
