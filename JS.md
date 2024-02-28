@@ -170,3 +170,9 @@ Defer attribute forces the JS file to load only after the HTML is loaded. But it
 ## Special For Loops
 
 Versatility of the for loop structure, being able to receive for instance an array as the first parameter, different types of incremente, even more than one comande as the iterator, separated by coma. One could use also with no parameters at all and using the code block to implement a logic that would break the loop when the condition is reached.
+
+## Testing
+
+Difference between static test and unit test. Static doesn't envolve code execution, basically is more related to syntax and will not find runtime errors. Unit test on the other hand verify that individual, isolated parts of the code works, given an specific input, test for the expected output. At the end, a group of unit test is called integration test.
+
+End to end testing, also called e2e, consists in a robot that behaves like a user to click around the app and verify that it functions correctly.

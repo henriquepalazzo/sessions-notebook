@@ -33,6 +33,12 @@ https://runjs.app/
 
 **NPM**
 https://www.npmjs.com/
+
+JEST Testing
+https://jestjs.io/
+
+Cucumber Testing
+https://cucumber.io/
 ## Icons
 
 **Font Awesome**
